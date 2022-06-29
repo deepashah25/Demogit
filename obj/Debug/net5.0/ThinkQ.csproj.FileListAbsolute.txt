@@ -1,0 +1,16 @@
+C:\Users\TQSPL\source\repos\ThinkQ\bin\Debug\net5.0\ThinkQ.exe
+C:\Users\TQSPL\source\repos\ThinkQ\bin\Debug\net5.0\ThinkQ.deps.json
+C:\Users\TQSPL\source\repos\ThinkQ\bin\Debug\net5.0\ThinkQ.runtimeconfig.json
+C:\Users\TQSPL\source\repos\ThinkQ\bin\Debug\net5.0\ThinkQ.runtimeconfig.dev.json
+C:\Users\TQSPL\source\repos\ThinkQ\bin\Debug\net5.0\ThinkQ.dll
+C:\Users\TQSPL\source\repos\ThinkQ\bin\Debug\net5.0\ref\ThinkQ.dll
+C:\Users\TQSPL\source\repos\ThinkQ\bin\Debug\net5.0\ThinkQ.pdb
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.csproj.AssemblyReference.cache
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.AssemblyInfoInputs.cache
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.AssemblyInfo.cs
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.csproj.CoreCompileInputs.cache
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.dll
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ref\ThinkQ.dll
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.pdb
+C:\Users\TQSPL\source\repos\ThinkQ\obj\Debug\net5.0\ThinkQ.genruntimeconfig.cache
